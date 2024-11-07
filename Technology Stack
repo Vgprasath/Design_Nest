@@ -1,0 +1,6 @@
+Streamlit: For interactive web application development and design visualization.
+MongoDB: Database solution for storing user-generated design data and blueprints.
+Python: Primary backend language for logic processing and data handling.
+OpenAI API (or alternative): For generating house images based on prompts.
+HTML/CSS/JavaScript: For building the user interface and frontend styling.
+Flask: Backend framework to support web functionalities and API integration
